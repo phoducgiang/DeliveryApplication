@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DeliveryApplication.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReleasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\172.19.3.130\storage01\02. QA\02-For Release</Value>
+    </Setting>
+    <Setting Name="TrasmittalPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\172.19.3.129\program\LN Transmittal\TRANSMITTAL</Value>
+    </Setting>
+    <Setting Name="Interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
